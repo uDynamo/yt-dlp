@@ -1,3 +1,17 @@
+Repositório selecionado: https://github.com/yt-dlp/yt-dlp
+
+Gráfico selecionado: "Production and Test Files"
+
+Explicaćão: O gráfico mostra um crescimento relevante no número de arquivos de produção entre 2020 e 2025, com um aumento de aproximadamente 50%. No entanto, o número de arquivos de teste permaneceu praticamente estável, crescendo apenas cerca de 25%. Esse contraste é ainda mais evidente no período entre 2021 e 2023, quando os arquivos de produção aumentaram em torno de 30%, enquanto os arquivos de teste não apenas não cresceram, como também apresentaram uma leve queda.
+
+Além disso, quando entramos no relatório de coverage disponibilizado no GitHub Actions, é possível dizer que os testes, atualmente, cobrem apenas 54% do código, um número relativamente preocupante. E quando investigamos mais individualmente os arquivos, percebemos que há um número relativamente grande de arquivos com um coverage menor do que 50%.
+Apesar disso, nos últimos 2 anos, os arquivos de testes cresceram cerca de 30% enquanto que o número de arquivos permaneceu relativamente estável. Sugerindo assim que houve uma tentativa recente de melhorar a qualidade do projeto por meio de testes automatizados ao invés de adicionar novas funcionalidades.
+
+Com base nisso, podemos concluir que, embora o projeto tenha feito avanços importantes na estrutura de testes nos últimos anos, ainda há espaço para melhorias, principalmente em relaćão à cobertura total.
+
+
+
+
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
